@@ -15,6 +15,7 @@ export default function App() {
     { name: 'intissar', key: '7' },
     { name: 'intissar', key: '8' },
     { name: 'Jaber', key: '9' },
+    { name: 'AYOUB', key: '10' },
   ]);
 
   const clickHandler = () => {
